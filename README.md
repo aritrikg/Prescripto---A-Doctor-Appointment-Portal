@@ -1,6 +1,6 @@
-# Prescripto - Doctor Appointment Web App
+# Prescripto - Doctor Appointment Portal
 
-**Prescripto** is a full-stack web application designed to make healthcare more accessible by simplifying the process of booking doctor appointments. It offers three levels of login: **Patient**, **Doctor**, and **Admin**, each with distinct features tailored to their roles. The app integrates **online payment gateways (Stripe and Razorpay)** to facilitate seamless and secure payments. Built using the **MERN stack** (MongoDB, Express.js, React.js, and Node.js), Prescripto provides an efficient, user-friendly experience for both patients and healthcare providers.
+Prescripto is a full-stack web application that makes healthcare more accessible by simplifying online doctor appointment bookings. It features three user roles — Patient, Doctor, and Admin — each with tailored functionality. With secure payment options powered by Stripe and Razorpay, users can complete transactions seamlessly. Built with the MERN stack (MongoDB, Express.js, React.js, and Node.js), Prescripto delivers a smooth, efficient, and user-friendly experience for both patients and medical professionals.
 
 ## 🛠️ Tech Stack
 
@@ -116,7 +116,7 @@ To set up and run this project locally:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/prescripto.git
+   git clone https://github.com/aritrikg/Prescripto---A-Doctor-Appointment-Portal.git
    cd prescripto
    ```
 
@@ -157,14 +157,6 @@ prescripto/
 └── .env             # Environment Variables
 ```
 
-## 🤝 Contributing
-
-We welcome contributions! Please feel free to submit issues, fork the repository, and open pull requests.
-
-
-## 🌟 Acknowledgements
-
-- Thanks to the developers and contributors of MongoDB, Express.js, React.js, Node.js, Stripe, and Razorpay for their fantastic tools and libraries.
 
 ---
 
